@@ -1,7 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuki1025okumura&count_private=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki1025okumura&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki1025okumura&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ -->
+ 
 <p align="left">
   <a href="http://twitter.com/kazuki_okumura">
     <img height="20" src="https://img.shields.io/twitter/follow/kazuki_okumura?label=Twitter&logo=twitter&style=flat" />
