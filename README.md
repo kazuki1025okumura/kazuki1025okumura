@@ -1,16 +1,19 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuki1025okumura&count_private=true&theme=dracula)
 
-<!--
-**kazuki1025okumura/kazuki1025okumura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki1025okumura&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="http://twitter.com/kazuki_okumura">
+    <img height="20" src="https://img.shields.io/twitter/follow/kazuki_okumura?label=Twitter&logo=twitter&style=flat" />
+  </a>
+ </p>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ポートフォリオ
+
+### [FLUFF MAPS](https://www.fluff-maps.com)
+#### 動物とのふれあいに特化した検索サービス
+<img src="https://i.gyazo.com/803bcad57d3cef6593d076da2dfe249c.jpg">
+
+#### ポートフォリオ解説記事
+https://qiita.com/kazuki1025okumura/items/c4f23d62a8d333b8be46
