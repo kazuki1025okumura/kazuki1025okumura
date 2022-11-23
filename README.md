@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuki1025okumura&count_private=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazuki1025okumura&count_private=true&show_icons=true&theme=radical)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazuki1025okumura&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  -->
@@ -12,9 +12,8 @@
 
 ## ポートフォリオ
 
-### [FLUFF MAPS](https://www.fluff-maps.com)
-#### 動物とのふれあいに特化した検索サービス
+#### 動物とのふれあいに特化した検索サービス「 [FLUFF MAPS](https://www.fluff-maps.com) 」
 <img src="https://i.gyazo.com/803bcad57d3cef6593d076da2dfe249c.jpg">
 
-#### ポートフォリオ解説記事
-https://qiita.com/kazuki1025okumura/items/c4f23d62a8d333b8be46
+#### [ポートフォリオ解説記事](https://qiita.com/kazuki1025okumura/items/c4f23d62a8d333b8be46)
+
